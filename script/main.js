@@ -125,9 +125,9 @@ const animationTimeline = () => {
         backgroundColor: "rgb(21, 161, 237)",
         color: "#fff",
     })
-    .to(".idea-3", 0.7, ideaTextTransLeave, "+=2.5")
+    .to(".idea-3", 0.7, ideaTextTransLeave, "+=3.5")
     .from(".idea-4", 0.7, ideaTextTrans)
-    .to(".idea-4", 0.7, ideaTextTransLeave, "+=2.5")
+    .to(".idea-4", 0.7, ideaTextTransLeave, "+=3.5")
     .from(
         ".idea-5",
         0.7, {
